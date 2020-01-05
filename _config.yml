@@ -6,3 +6,18 @@ show_header: false
 
 sass:
     style: compressed
+listings:
+  "Featured":
+    'React Dev Tools':
+      link: '#example'
+      icon: '/assets/images/candies.png'
+    'Slack':
+      link: '#example'
+      icon: '/assets/images/candies.png'
+    'Visual Studio Code':
+      link: '#example'
+      icon: '/assets/images/candies.png'
+  "Code Editors":
+    'Vim':
+      link: '#example'
+      icon: '/assets/images/candies.png'
